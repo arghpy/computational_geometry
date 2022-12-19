@@ -23,9 +23,10 @@ To run this project, you will need:
 
 Simply run **`final_project.py`** as any other program:
 
+```
 $: python3 final\_project.py
-
+```
 
 ## Credits
 
-This project was developed by Andrei Suba and Silaghi-Fartan Stefan as part of the Computational Geometry course at West University of Timisoara.
+This project was developed by _Andrei Suba_ and _Silaghi-Fartan Stefan_ as part of the Computational Geometry course at West University of Timisoara.
