@@ -24,7 +24,7 @@ To run this project, you will need:
 Simply run **`final_project.py`** as any other program:
 
 ```
-$: python3 final\_project.py
+$: python3 final_project.py
 ```
 
 ## Credits
