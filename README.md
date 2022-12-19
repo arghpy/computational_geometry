@@ -1,6 +1,14 @@
-# computational_geometry
-This repository was created to reflect the work on the project for the Computational Geometry subject
-from our university.
+# Computationl Geometry Project
 
-The project reflects an application in python for computing convex layers based on the points
-drawn by the user.
+This project is a small implementation for computing convex layers. It was developed as part of a university course on the subject Computational Geometry.
+
+## Contents
+
+The project includes the following:
+
+- Implementation of an application in which the user can draw points by clicking and a series of buttons, one of which computes and displays the convex layers formed around the points and the other which resets everything
+
+- Project documentation in the form of a LaTeX file and a .pdf file
+
+- Presentation in the form of a PowerPoint file
+
