@@ -12,3 +12,20 @@ The project includes the following:
 
 - Presentation in the form of a PowerPoint file
 
+
+## Requirements
+
+To run this project, you will need:
+
+- Python version 3.10
+
+## Running
+
+Simply run **`final_project.py`** as any other program:
+
+$: python3 final\_project.py
+
+
+## Credits
+
+This project was developed by Andrei Suba and Silaghi-Fartan Stefan as part of the Computational Geometry course at West University of Timisoara.
