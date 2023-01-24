@@ -4,7 +4,7 @@ from tkinter import ttk
 
 
 
-# Define a function to draw the line between two points
+# Function to display the point and add it to listPoints
 def draw_line(event):
     x1=event.x
     y1=event.y
